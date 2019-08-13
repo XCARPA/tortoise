@@ -2,5 +2,7 @@
 <Export generator="Cache" version="25">
 <Routine name="rotina1" type="MAC" languagemode="0"><![CDATA[
 rotina1	;rotina1
+	versão 2
+	q
 ]]></Routine>
 </Export>
